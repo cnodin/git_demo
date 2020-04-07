@@ -5,6 +5,7 @@ fix bug2
 
 for rebase1
 for rebase2
+<<<<<<< HEAD
 for rebase3
-for rebase4
-for rebase5
+=======
+>>>>>>> 7513233... rebase2

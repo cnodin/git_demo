@@ -1,0 +1,7 @@
+first line
+second line
+another commit into file2
+<<<<<<< HEAD
+another commit1 into file2
+=======
+>>>>>>> 7c2d83f... another commit into file2
