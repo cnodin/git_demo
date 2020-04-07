@@ -3,3 +3,4 @@ second line
 another commit into file2
 another commit1 into file2
 bug hotfix
+fix bug-123
